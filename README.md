@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 MERN Stack developer MERN Stack developer with a keen interest in UI/UX and Graphic Designing. Here to interact with people who are having expertise in different technologies and grow my career as a Computer Science Engineer.
 
 
