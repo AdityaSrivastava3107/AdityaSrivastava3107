@@ -1,7 +1,7 @@
 #  About Me:
 MERN Stack developer with a keen interest in UI/UX and Graphic Designing. Here to interact with people who are having expertise in different technologies and grow my career as a Computer Science Engineer.
 
-Currently learning - React Native.
+Currently learning - React Native & C.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-srivastava-03185a235) 
